@@ -20,3 +20,12 @@ react practice
 >  need of portals
 
 >  need of ref (uncontrolled way)
+
+
+**Module 3:** Working with Advanced concept 
+
+> handling side effects (useEffect)
+
+>  need of useReducer
+
+>  hadling component-wise state (useContext managing states globally)
